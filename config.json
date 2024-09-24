@@ -1,12 +1,12 @@
 { 
-    "GuildID": "",
-    "GuildName": "",
-    "owners": ["",""],
-    "BotDurum": ["",""], 
-    "BotSesKanal": "",
-    "AltBaşlık": "",
+    "GuildID": "1287931335985336331",
+    "GuildName": "MEDUSA",
+    "owners": [""955161007536353340""],
+    "BotDurum": [""ana""], 
+    "BotSesKanal": "1287931335985336335",
+    "AltBaşlık": "ana",
     
-    "mongoUrl": "",
+    "mongoUrl": "mongodb+srv://Leo:IVV13Dr4T7KEiFUC@leonaxdev.3agz0.mongodb.net/",
 
 
     
@@ -14,9 +14,9 @@
     
 
     "Main": {
-        "ModerationToken": "",
-        "RegisterToken": "",
-        "BotClientID": "",
+        "ModerationToken": "MTI4NzkzODcyNDgxODE5MDQzOQ.GpGM19.mwCvaXCC7r95L5PJW1XQW_g2k007KlpV1ho5pk",
+        "RegisterToken": "MTI4NzkzODcyNDgxODE5MDQzOQ.GpGM19.mwCvaXCC7r95L5PJW1XQW_g2k007KlpV1ho5pk",
+        "BotClientID": "1287938724818190439",
 
         "prefix": [".","!"]
 
